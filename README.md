@@ -19,4 +19,24 @@ Mount the file systems
 
 Select the mirrors
 
-Install essential packages: base base-devel linux linux-firmware linux-headers networkmanager vim man-db man-pages texinfo.
+Install essential packages: base base-devel linux linux-firmware linux-headers networkmanager vim man-db man-pages texinfo grub efibootmgr
+
+Fstab
+
+Chroot
+
+Time zone
+
+Localization
+
+Network configuration
+
+Root password
+
+Boot loader
+
+microcode
+
+Reboot
+
+### Post installation
