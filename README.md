@@ -5,48 +5,48 @@
 ## Install arch linux following the arch wiki guide
 https://wiki.archlinux.org/index.php/Installation_guide:
 
-Set the keyboard layout
+- Set the keyboard layout
 
-Connect to the internet
+- Connect to the internet
 
-Update the system clock
+- Update the system clock
 
-Partition the disks
+- Partition the disks
 
-Format the partitions
+- Format the partitions
 
-Mount the file systems
+- Mount the file systems
 
-Select the mirrors
+- Select the mirrors
 
-Install essential packages: base base-devel linux linux-firmware linux-headers networkmanager vim man-db man-pages texinfo grub efibootmgr
+- Install essential packages: base base-devel linux linux-firmware linux-headers networkmanager vim man-db man-pages texinfo grub efibootmgr
 
-Fstab
+- Fstab
 
-Chroot
+- Chroot
 
-Time zone
+- Time zone
 
-Localization
+- Localization
 
-Network configuration
+- Network configuration
 
-Root password
+- Root password
 
-Boot loader
+- Boot loader
 
-microcode
+- microcode
 
-Reboot
+- Reboot
 
 ## Post installation
 
 ### Add user
 
-useradd -m -g wheel username
+- useradd -m -g wheel username
 
-passwd username
+- passwd username
 
 ### Give sudo to user
 
-Modify /etc/sudoers
+- Modify /etc/sudoers
