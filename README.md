@@ -40,6 +40,8 @@ https://wiki.archlinux.org/index.php/Installation_guide:
 
 - microcode
 
+- Enable services: NetworkManager
+
 - Reboot
 
 ## Post installation
@@ -52,4 +54,4 @@ https://wiki.archlinux.org/index.php/Installation_guide:
 
 ### Give sudo to user
 
-- Modify /etc/sudoers
+- Modify /etc/sudoers: EDITOR=vim visudo
