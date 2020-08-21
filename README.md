@@ -1,8 +1,16 @@
-# Awesome-Install
-## Installation guide for arch awesome on xfce
+Awesome-Install
+===============
 
 
-## Install arch linux following the arch wiki guide
+-------------------------------------------
+Installation guide for arch awesome on xfce
+-------------------------------------------
+
+
+*Install arch linux following the arch wiki guide*
+
+
+
 https://wiki.archlinux.org/index.php/Installation_guide:
 
 - Set the keyboard layout
