@@ -2,7 +2,7 @@
 ## Installation guide for arch awesome on xfce
 
 
-### Install arch linux following the arch wiki guide
+## Install arch linux following the arch wiki guide
 https://wiki.archlinux.org/index.php/Installation_guide:
 
 Set the keyboard layout
@@ -39,4 +39,14 @@ microcode
 
 Reboot
 
-### Post installation
+## Post installation
+
+### Add user
+
+useradd -m -g wheel username
+
+passwd username
+
+### Give sudo to user
+
+Modify /etc/sudoers
